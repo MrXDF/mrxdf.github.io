@@ -1,0 +1,6 @@
+{
+  "name": "个人主页",
+  "tagline": "欢迎来到我的GitHub个人中心",
+  "body": "<trans data-src=\"### Welcome to GitHub Pages.\r\n欢迎来到我的主页\r\n</trans>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
